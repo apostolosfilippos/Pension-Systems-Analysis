@@ -19,3 +19,4 @@ Source: OECD (2024), Pensions at a Glance. Metrics: Public Pension Spending (% o
 🚀 Visuals Included
 
 Scatter Plot: Correlation between spending and pension adequacy. Summary Table: Average metrics grouped by system type. Category Analysis: Comparative view of fiscal sustainability.
+![pension_dashboard](https://github.com/user-attachments/assets/4133e30a-2f35-48e9-9904-d2999dd99d01)
