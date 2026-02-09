@@ -16,4 +16,4 @@ I developed a Power BI dashboard to evaluate the fiscal efficiency of global pen
 ## 📂 Data Source
 OECD (2024) - Pensions at a Glance.
    
-![pension_dashboard](https://github.com/user-attachments/assets/4133e30a-2f35-48e9-9904-d2999dd99d01)
+<img width="1533" height="861" alt="Pensions" src="https://github.com/user-attachments/assets/6b21c289-9828-4ac5-8c02-d24ffdcb4c6a" />
